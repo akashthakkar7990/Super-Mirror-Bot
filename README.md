@@ -10,9 +10,6 @@
   not, You are only allowed to report that issue in bot support group if that
   issue is also present in official repo.
 
-## Features Coming soon....
-
-- ~Custom Filename~ Added
 
 ```
 Only for url, telegram files and ytdl.  Not for mega links and
