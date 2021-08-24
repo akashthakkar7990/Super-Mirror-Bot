@@ -299,4 +299,4 @@ different hosts can be added each separated by a new line
 
 Deploy HUEHUEHUE
 
-https://heroku.com/deploy?template=https://github.com/atharv2951/Mirror-Bot/tree/master
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/atharv2951/Mirror-Bot/master)
